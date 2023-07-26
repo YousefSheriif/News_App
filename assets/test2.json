@@ -1,0 +1,266 @@
+{
+  "status":"ok",
+  "totalResults":64,
+  "articles": [
+    {
+      "source": {
+      "id":"google-news",
+      "name":"Google News"
+      },
+      "author":"اليوم السابع",
+      "title":"أسعار الذهب اليوم الخميس 4 مايو 2023 فى مصر - اليوم السابع",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMi7gFodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy81LzQvJUQ4JUEzJUQ4JUIzJUQ4JUI5JUQ4JUE3JUQ4JUIxLSVEOCVBNyVEOSU4NCVEOCVCMCVEOSU4NyVEOCVBOC0lRDglQTclRDklODQlRDklOEElRDklODglRDklODUtJUQ4JUE3JUQ5JTg0JUQ4JUFFJUQ5JTg1JUQ5JThBJUQ4JUIzLTQtJUQ5JTg1JUQ4JUE3JUQ5JThBJUQ5JTg4LTIwMjMtJUQ5JTgxJUQ5JTg5LSVEOSU4NSVEOCVCNSVEOCVCMS82MTY5Njcw0gHqAWh0dHBzOi8vbS55b3VtNy5jb20vYW1wLzIwMjMvNS80LyVEOCVBMyVEOCVCMyVEOCVCOSVEOCVBNyVEOCVCMS0lRDglQTclRDklODQlRDglQjAlRDklODclRDglQTgtJUQ4JUE3JUQ5JTg0JUQ5JThBJUQ5JTg4JUQ5JTg1LSVEOCVBNyVEOSU4NCVEOCVBRSVEOSU4NSVEOSU4QSVEOCVCMy00LSVEOSU4NSVEOCVBNyVEOSU4QSVEOSU4OC0yMDIzLSVEOSU4MSVEOSU4OS0lRDklODUlRDglQjUlRDglQjEvNjE2OTY3MA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-04T10:30:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"الأسبوع",
+      "title":"صعود سعر الذهب في قطر اليوم الخميس 4 مايو 2023 - الأسبوع",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vd3d3LmVsYW9zYm9hLmNvbS84ODQyNTYv0gEA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-04T09:19:26Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"BBC Arabic",
+      "title":"هل يستطيع المغرب حل أزمة الطاقة في أوروبا؟ - BBC News عربي - BBC Arabic",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMiLGh0dHBzOi8vd3d3LmJiYy5jb20vYXJhYmljL2J1c2luZXNzLTY1NDgwMjE20gEA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-04T08:58:11Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"السعودية Investing.comالسعودية Investing.com",
+      "title":"عاجل: انهيار مصرفي جديد يلوح في الأفق.. تراجعات حادة بأسهم العديد من البنوك بواسطة Investing.com - السعودية Investing.comالسعودية Investing.com",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMiP2h0dHBzOi8vc2EuaW52ZXN0aW5nLmNvbS9uZXdzL3N0b2NrLW1hcmtldC1uZXdzL2FydGljbGUtMjQwOTQyMdIBAA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-04T08:10:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"السعودية Investing.comالسعودية Investing.com",
+      "title":"رحلة الذهب الصعودية لن تتوقف.. والحركة الكبيرة التالية تعتمد على هذا الأمر! - السعودية Investing.comالسعودية Investing.com",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMiM2h0dHBzOi8vc2EuaW52ZXN0aW5nLmNvbS9hbmFseXNpcy9hcnRpY2xlLTIwMDQ3Njc1NtIBAA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-04T07:24:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"السعودية Investing.comالسعودية Investing.com",
+      "title":"الدولار يعاني هبوطًا مستمرًا..الفيدرالي لم يكن كافيًا وسط اقتصاد \"ينهار\" بواسطة Investing.com - السعودية Investing.comالسعودية Investing.com",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMiOGh0dHBzOi8vc2EuaW52ZXN0aW5nLmNvbS9uZXdzL2ZvcmV4LW5ld3MvYXJ0aWNsZS0yNDA5Mzky0gEA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-04T07:14:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"العربية",
+      "title":"تراجع أرباح \"سابك\" 90% إلى 660 مليون ريال في الربع الأول - العربية",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMiqgJodHRwczovL3d3dy5hbGFyYWJpeWEubmV0L2Fzd2FxL2NvbXBhbmllcy8yMDIzLzA1LzA0LyVEOCVBQSVEOCVCMSVEOCVBNyVEOCVBQyVEOCVCOS0lRDglQTMlRDglQjElRDglQTglRDglQTclRDglQUQtJUQ4JUIzJUQ4JUE3JUQ4JUE4JUQ5JTgzLTg5LTgtJUQ4JUE3JUQ5JTg0JUQ5JTg5LTY2MC0lRDklODUlRDklODQlRDklOEElRDklODglRDklODYtJUQ4JUIxJUQ5JThBJUQ4JUE3JUQ5JTg0LSVEOSU4MSVEOSU4QS0lRDglQTclRDklODQlRDglQjElRDglQTglRDglQjktJUQ4JUE3JUQ5JTg0JUQ4JUEzJUQ5JTg4JUQ5JTg00gGuAmh0dHBzOi8vd3d3LmFsYXJhYml5YS5uZXQvYW1wL2Fzd2FxL2NvbXBhbmllcy8yMDIzLzA1LzA0LyVEOCVBQSVEOCVCMSVEOCVBNyVEOCVBQyVEOCVCOS0lRDglQTMlRDglQjElRDglQTglRDglQTclRDglQUQtJUQ4JUIzJUQ4JUE3JUQ4JUE4JUQ5JTgzLTg5LTgtJUQ4JUE3JUQ5JTg0JUQ5JTg5LTY2MC0lRDklODUlRDklODQlRDklOEElRDklODglRDklODYtJUQ4JUIxJUQ5JThBJUQ4JUE3JUQ5JTg0LSVEOSU4MSVEOSU4QS0lRDglQTclRDklODQlRDglQjElRDglQTglRDglQjktJUQ4JUE3JUQ5JTg0JUQ4JUEzJUQ5JTg4JUQ5JTg0?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-04T06:08:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"العربية",
+      "title":"ماذا تقول \"وول ستريت\" عن قرار \"الفيدرالي\" برفع سعر الفائدة؟ - العربية",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMi2AJodHRwczovL3d3dy5hbGFyYWJpeWEubmV0L2Fzd2FxL3NwZWNpYWwtc3Rvcmllcy8yMDIzLzA1LzA0LyVEOSU4NSVEOCVBNyVEOCVCMCVEOCVBNy0lRDglQUElRDklODIlRDklODglRDklODQtJUQ5JTg4JUQ5JTg4JUQ5JTg0LSVEOCVCMyVEOCVBQSVEOCVCMSVEOSU4QSVEOCVBQS0lRDglQjklRDklODYtJUQ5JTgyJUQ4JUIxJUQ4JUE3JUQ4JUIxLSVEOCVBNyVEOSU4NCVEOSU4MSVEOSU4QSVEOCVBRiVEOCVCMSVEOCVBNyVEOSU4NCVEOSU4QS0lRDglQTglRDglQjElRDklODElRDglQjktJUQ4JUIzJUQ4JUI5JUQ4JUIxLSVEOCVBNyVEOSU4NCVEOSU4MSVEOCVBNyVEOCVBNiVEOCVBRiVEOCVBOSVEOCU5RtIB3AJodHRwczovL3d3dy5hbGFyYWJpeWEubmV0L2FtcC9hc3dhcS9zcGVjaWFsLXN0b3JpZXMvMjAyMy8wNS8wNC8lRDklODUlRDglQTclRDglQjAlRDglQTctJUQ4JUFBJUQ5JTgyJUQ5JTg4JUQ5JTg0LSVEOSU4OCVEOSU4OCVEOSU4NC0lRDglQjMlRDglQUElRDglQjElRDklOEElRDglQUEtJUQ4JUI5JUQ5JTg2LSVEOSU4MiVEOCVCMSVEOCVBNyVEOCVCMS0lRDglQTclRDklODQlRDklODElRDklOEElRDglQUYlRDglQjElRDglQTclRDklODQlRDklOEEtJUQ4JUE4JUQ4JUIxJUQ5JTgxJUQ4JUI5LSVEOCVCMyVEOCVCOSVEOCVCMS0lRDglQTclRDklODQlRDklODElRDglQTclRDglQTYlRDglQUYlRDglQTklRDglOUY?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-04T04:41:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"FxNewsToday.ae",
+      "title":"أسعار الذهب تسجّل مستوى تاريخي جديد – تحليل - 04-05-2023 - FxNewsToday.ae",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMiqwJodHRwczovL3d3dy5meG5ld3N0b2RheS5hZS9jb21tb2RpdGllcy9nb2xkLWFuYWx5c2lzLyVEOCVBMyVEOCVCMyVEOCVCOSVEOCVBNyVEOCVCMS0lRDglQTclRDklODQlRDglQjAlRDklODclRDglQTgtJUQ4JUFBJUQ4JUIzJUQ4JUFDJUQ5JTkxJUQ5JTg0LSVEOSU4NSVEOCVCMyVEOCVBQSVEOSU4OCVEOSU4OS0lRDglQUElRDglQTclRDglQjElRDklOEElRDglQUUlRDklOEEtJUQ4JUFDJUQ4JUFGJUQ5JThBJUQ4JUFGLSVFMiU4MCU5My0lRDglQUElRDglQUQlRDklODQlRDklOEElRDklODQtLS0wNC0wNS0yMDIzLTIyNTExNNIBAA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-04T04:20:09Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"Al Masry Al Youm - المصري اليوم",
+      "title":"سعر الدولار في مصر مقابل الجنيه الخميس 4 مايو 2023 - Al Masry Al Youm - المصري اليوم",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yODc4Mjk20gEA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-04T03:35:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"الحرة",
+      "title":"غوغل \"تقتل\" كلمات المرور بـ\"مفاتيح\" جديدة - الحرة",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMi7QFodHRwczovL3d3dy5hbGh1cnJhLmNvbS90ZWNoLzIwMjMvMDUvMDQvJUQ4JUJBJUQ5JTg4JUQ4JUJBJUQ5JTg0LSVEOCVBQSVEOSU4MiVEOCVBQSVEOSU4NC0lRDklODMlRDklODQlRDklODUlRDglQTclRDglQUEtJUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ4JUIxJUQ5JTg4JUQ4JUIxLSVEOCVBOCVEOSU4MCVEOSU4NSVEOSU4MSVEOCVBNyVEOCVBQSVEOSU4QSVEOCVBRC0lRDglQUMlRDglQUYlRDklOEElRDglQUYlRDglQTnSAfEBaHR0cHM6Ly93d3cuYWxodXJyYS5jb20vdGVjaC8yMDIzLzA1LzA0LyVEOCVCQSVEOSU4OCVEOCVCQSVEOSU4NC0lRDglQUElRDklODIlRDglQUElRDklODQtJUQ5JTgzJUQ5JTg0JUQ5JTg1JUQ4JUE3JUQ4JUFBLSVEOCVBNyVEOSU4NCVEOSU4NSVEOCVCMSVEOSU4OCVEOCVCMS0lRDglQTglRDklODAlRDklODUlRDklODElRDglQTclRDglQUElRDklOEElRDglQUQtJUQ4JUFDJUQ4JUFGJUQ5JThBJUQ4JUFGJUQ4JUE5P2FtcA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-04T01:52:02Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"Sada El-Bald صدى البلد",
+      "title":"الطن يتراجع عن 40 ألف جنيه|مفاجأة في أسعار الحديد والأسمنت اليوم - Sada El-Bald صدى البلد",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vd3d3LmVsYmFsYWQubmV3cy81NzUyODkw0gEA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-04T01:45:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"الأسبوع",
+      "title":"ارتفاع بالسوق السوداء.. سعر الدولار في سوريا اليوم الخميس 4 مايو 2023 - الأسبوع",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vd3d3LmVsYW9zYm9hLmNvbS84ODM3NDkv0gEA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-04T00:49:40Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"اليوم السابع",
+      "title":"انتعاش اسهم شركات الذهب فى البورصة العالمية بسبب قفزة الطلب - اليوم السابع",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMi4gJodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy81LzQvJUQ4JUE3JUQ5JTg2JUQ4JUFBJUQ4JUI5JUQ4JUE3JUQ4JUI0LSVEOCVBNyVEOCVCMyVEOSU4NyVEOSU4NS0lRDglQjQlRDglQjElRDklODMlRDglQTclRDglQUEtJUQ4JUE3JUQ5JTg0JUQ4JUIwJUQ5JTg3JUQ4JUE4LSVEOSU4MSVEOSU4OS0lRDglQTclRDklODQlRDglQTglRDklODglRDglQjElRDglQjUlRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUI5JUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ5JThBJUQ4JUE5LSVEOCVBOCVEOCVCMyVEOCVBOCVEOCVBOC0lRDklODIlRDklODElRDglQjIlRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUI3JUQ5JTg0JUQ4JUE4LzYxNjg4NzDSAd4CaHR0cHM6Ly9tLnlvdW03LmNvbS9hbXAvMjAyMy81LzQvJUQ4JUE3JUQ5JTg2JUQ4JUFBJUQ4JUI5JUQ4JUE3JUQ4JUI0LSVEOCVBNyVEOCVCMyVEOSU4NyVEOSU4NS0lRDglQjQlRDglQjElRDklODMlRDglQTclRDglQUEtJUQ4JUE3JUQ5JTg0JUQ4JUIwJUQ5JTg3JUQ4JUE4LSVEOSU4MSVEOSU4OS0lRDglQTclRDklODQlRDglQTglRDklODglRDglQjElRDglQjUlRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUI5JUQ4JUE3JUQ5JTg0JUQ5JTg1JUQ5JThBJUQ4JUE5LSVEOCVBOCVEOCVCMyVEOCVBOCVEOCVBOC0lRDklODIlRDklODElRDglQjIlRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUI3JUQ5JTg0JUQ4JUE4LzYxNjg4NzA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-04T00:00:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"اليوم السابع",
+      "title":"ما هو الذهب الكسر فى سوق الصاغة وأسعاره؟ - اليوم السابع",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMi9AFodHRwczovL3d3dy55b3VtNy5jb20vc3RvcnkvMjAyMy81LzQvJUQ5JTg1JUQ4JUE3LSVEOSU4NyVEOSU4OC0lRDglQTclRDklODQlRDglQjAlRDklODclRDglQTgtJUQ4JUE3JUQ5JTg0JUQ5JTgzJUQ4JUIzJUQ4JUIxLSVEOSU4MSVEOSU4OS0lRDglQjMlRDklODglRDklODItJUQ4JUE3JUQ5JTg0JUQ4JUI1JUQ4JUE3JUQ4JUJBJUQ4JUE5LSVEOSU4OCVEOCVBMyVEOCVCMyVEOCVCOSVEOCVBNyVEOCVCMSVEOSU4Ny82MTY4ODY10gHwAWh0dHBzOi8vbS55b3VtNy5jb20vYW1wLzIwMjMvNS80LyVEOSU4NSVEOCVBNy0lRDklODclRDklODgtJUQ4JUE3JUQ5JTg0JUQ4JUIwJUQ5JTg3JUQ4JUE4LSVEOCVBNyVEOSU4NCVEOSU4MyVEOCVCMyVEOCVCMS0lRDklODElRDklODktJUQ4JUIzJUQ5JTg4JUQ5JTgyLSVEOCVBNyVEOSU4NCVEOCVCNSVEOCVBNyVEOCVCQSVEOCVBOS0lRDklODglRDglQTMlRDglQjMlRDglQjklRDglQTclRDglQjElRDklODcvNjE2ODg2NQ?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-03T23:00:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"Al Masry Al Youm - المصري اليوم",
+      "title":"رغم انخفاضه سيرتفع مجددًا.. خبير يتوقع تأثر سعر الذهب بعد قرار «الفيدرالي» - Al Masry Al Youm - المصري اليوم",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yODc4MTE00gEA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-03T20:23:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"Al Masry Al Youm - المصري اليوم",
+      "title":"بعد قرار الفيدرالي الأمريكي.. أسعار العملات اليوم الأربعاء في البنك الأهلي - Al Masry Al Youm - المصري اليوم",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yODc4MDg40gEA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-03T19:47:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"Al Masry Al Youm - المصري اليوم",
+      "title":"بعد قرار الفيدرالي الأمريكي.. عوائد شهادة الادخار الدولارية من البنك الأهلي 2023 - Al Masry Al Youm - المصري اليوم",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yODc4MDg30gEA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-03T19:45:00Z",
+      "content":null
+    },
+    {
+      "source":
+      {"id":"google-news",
+        "name":"Google News"
+      },
+      "author":"Masrawy - مصراوي",
+      "title":"احتياطي النقد الأجنبي لمصر يرتفع للمرة السابعة على التوالي خلال أبريل - Masrawy - مصراوي",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMisANodHRwczovL3d3dy5tYXNyYXd5LmNvbS9uZXdzL25ld3MtYmFua2luZy9kZXRhaWxzLzIwMjMvNS8zLzI0MDc5NjEvJUQ4JUE3JUQ4JUFEJUQ4JUFBJUQ5JThBJUQ4JUE3JUQ4JUI3JUQ5JThBLSVEOCVBNyVEOSU4NCVEOSU4NiVEOSU4MiVEOCVBRi0lRDglQTclRDklODQlRDglQTMlRDglQUMlRDklODYlRDglQTglRDklOEEtJUQ5JTg0JUQ5JTg1JUQ4JUI1JUQ4JUIxLSVEOSU4QSVEOCVCMSVEOCVBQSVEOSU4MSVEOCVCOS0lRDklODQlRDklODQlRDklODUlRDglQjElRDglQTktJUQ4JUE3JUQ5JTg0JUQ4JUIzJUQ4JUE3JUQ4JUE4JUQ4JUI5JUQ4JUE5LSVEOCVCOSVEOSU4NCVEOSU4OS0lRDglQTclRDklODQlRDglQUElRDklODglRDglQTclRDklODQlRDklOEEtJUQ4JUFFJUQ5JTg0JUQ4JUE3JUQ5JTg0LSVEOCVBMyVEOCVBOCVEOCVCMSVEOSU4QSVEOSU4NC3SAbQDaHR0cHM6Ly93d3cubWFzcmF3eS5jb20vbmV3cy9uZXdzLWJhbmtpbmcvZGV0YWlscy8yMDIzLzUvMy8yNDA3OTYxLyVEOCVBNyVEOCVBRCVEOCVBQSVEOSU4QSVEOCVBNyVEOCVCNyVEOSU4QS0lRDglQTclRDklODQlRDklODYlRDklODIlRDglQUYtJUQ4JUE3JUQ5JTg0JUQ4JUEzJUQ4JUFDJUQ5JTg2JUQ4JUE4JUQ5JThBLSVEOSU4NCVEOSU4NSVEOCVCNSVEOCVCMS0lRDklOEElRDglQjElRDglQUElRDklODElRDglQjktJUQ5JTg0JUQ5JTg0JUQ5JTg1JUQ4JUIxJUQ4JUE5LSVEOCVBNyVEOSU4NCVEOCVCMyVEOCVBNyVEOCVBOCVEOCVCOSVEOCVBOS0lRDglQjklRDklODQlRDklODktJUQ4JUE3JUQ5JTg0JUQ4JUFBJUQ5JTg4JUQ4JUE3JUQ5JTg0JUQ5JThBLSVEOCVBRSVEOSU4NCVEOCVBNyVEOSU4NC0lRDglQTMlRDglQTglRDglQjElRDklOEElRDklODQtP2FtcA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-03T16:45:00Z",
+      "content":null
+    },
+    {
+      "source":{
+        "id":"google-news",
+        "name":"Google News"
+      },
+      "author":"Al Masry Al Youm - المصري اليوم",
+      "title":"أسعار العملات الأجنبية فى السعودية مقابل الريال اليوم - Al Masry Al Youm - المصري اليوم",
+      "description":null,
+      "url":"https://news.google.com/rss/articles/CBMiMmh0dHBzOi8vd3d3LmFsbWFzcnlhbHlvdW0uY29tL25ld3MvZGV0YWlscy8yODc3ODcx0gEA?oc=5",
+      "urlToImage":null,
+      "publishedAt":"2023-05-03T16:14:00Z",
+      "content":null
+    }
+  ]
+}
